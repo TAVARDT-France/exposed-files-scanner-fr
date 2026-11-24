@@ -52,4 +52,12 @@ Pour vos audits de penetration et la reduction de votre surface d attaque en Fra
 
 ***
 
+## Liens Utiles
+
+* **Portail Entreprise:** https://ag.tavardt.com/fr/
+* **Suite de Diagnostic:** https://tools.tavardt.com/fr/
+* **Contact Technique:** https://ag.tavardt.com/fr/contact/
+
+***
+
 © 2026 TAVARDT. Tous droits réservés.
