@@ -1,4 +1,4 @@
-# Scanner de Fichiers et Identifiants Exposés | TAVARDT France
+# Scanner de Fichiers et Identifiants Exposés
 
 [![Scanner Fichiers Exposes](https://img.shields.io/badge/TAVARDT-Surface%20Attaque-5b3cf5.svg)](https://tools.tavardt.com/fr/scanner-fichiers-exposes/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Pour des analyses graphiques et un suivi continu du perimetre, consultez l outil
 ## Conseil en Cybersecurite Offensive
 
 Pour vos audits de penetration et la reduction de votre surface d attaque en France, sollicitez les experts de **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
