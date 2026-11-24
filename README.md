@@ -5,7 +5,7 @@
 
 Scanner de surface d attaque pour la detection automatisee de fichiers d environnement, sauvegardes de bases de donnees et metadonnees git exposees.
 
-Developpe et maintenu par la division de cybersecurite offensive de **TAVARDT France**.
+Developpe et maintenu par la division de cybersecurite offensive de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python scanner.py entreprise.fr -json
 Pour des analyses graphiques et un suivi continu du perimetre, consultez l outil officiel:
 
 * **Scanner de Fichiers Exposes**
-* **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
+* **[Portail Entreprise TAVARDT](https://ag.tavardt.com/fr/)**
 
 ***
 
 ## Conseil en Cybersecurite Offensive
 
-Pour vos audits de penetration et la reduction de votre surface d attaque en France, sollicitez les experts de **TAVARDT France**.
+Pour vos audits de penetration et la reduction de votre surface d attaque en France, sollicitez les experts de **TAVARDT**.
 
 ***
 
