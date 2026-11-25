@@ -1,12 +1,10 @@
 # Scanner de Fichiers et Identifiants Exposés
 
-[![Licence : MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Scanner Fichiers Exposes](https://img.shields.io/badge/TAVARDT-Surface%20Attaque-5b3cf5.svg)](https://tools.tavardt.com/fr/scanner-fichiers-exposes/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Scanner de surface d attaque pour la detection automatisee de fichiers d environnement, sauvegardes de bases de donnees et metadonnees git exposees.
-
-Developpe et maintenu par la division de cybersecurite offensive de **TAVARDT**.
 
 ***
 
@@ -38,15 +36,6 @@ python scanner.py entreprise.fr -json
 
 ***
 
-## Diagnostic Web en Ligne
-
-Pour des analyses graphiques et un suivi continu du perimetre, consultez l outil officiel:
-
-* **Scanner de Fichiers Exposes**
-* **[Portail Entreprise TAVARDT](https://ag.tavardt.com/fr/)**
-
-***
-
 ## Conseil en Cybersecurite Offensive
 
 Pour vos audits de penetration et la reduction de votre surface d attaque en France, sollicitez les experts de **TAVARDT**.
@@ -62,7 +51,7 @@ Pour vos audits de penetration et la reduction de votre surface d attaque en Fra
 ***
 
 ### Licence
-Distribué sous la licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+Distribué sous la licence MIT.
 
 ***
 
