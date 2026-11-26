@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/fr/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Scanner de Fichiers et Identifiants Exposés
 
 [![Scanner Fichiers Exposes](https://img.shields.io/badge/TAVARDT-Surface%20Attaque-5b3cf5.svg)](https://tools.tavardt.com/fr/scanner-fichiers-exposes/)
